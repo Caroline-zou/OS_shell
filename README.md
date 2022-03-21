@@ -5,7 +5,7 @@ Project 1
 ## 目标
 
 1.安装MINIX操作系统（Version3.3）\
-2.学校Shell，系统编程，实现一个基本的shell 
+2.学习Shell，系统编程，实现一个基本的shell 
 
 ## 实验要求
 
